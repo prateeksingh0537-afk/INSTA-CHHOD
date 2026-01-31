@@ -18,7 +18,7 @@ Usage of Instachhod for attacking targets without prior mutual consent is illega
 
 ### Usage:
 ```
-git clone https://github.com//INSTA-CHHOD
+git clone https://github.com/prateeksingh0537-afk/INSTA-CHHOD
 cd INSTA-CHHOD
 chmod +x instachhod.sh
 sudo ./instachhod.sh
